@@ -1,1 +1,1 @@
-# JavaBasics_SoftUni
+# JavaBasicsExam_SoftUni
